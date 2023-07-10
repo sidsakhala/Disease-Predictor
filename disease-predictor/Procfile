@@ -1,0 +1,1 @@
+web gunicorn disease-predictor.wsgi:application --log-file -
